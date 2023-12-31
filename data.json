@@ -1,0 +1,122 @@
+{
+  "videos": [
+    {
+      "title": "Engaeyum Eppothum ",
+      "coverImg": "https://th.bing.com/th/id/OIP.MbpseEQjBZEG_t6ygDptygHaJ4?w=135&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "videoUrl": " https://www.youtube.com/embed/Ia2FxEd82IQ?autoplay=1",
+      "id": 5
+    },
+    {
+      "title": "Tattadash!",
+      "coverImg": "https://th.bing.com/th/id/OIP.3yt14CLek_GHBgxBCw6kegHaEK?w=275&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "videoUrl": " https://www.youtube.com/embed/1sGfiso14Z0?autoplay=1",
+      "id": 6
+    },
+    {
+      "title": "F.R.I.E.N.D.S",
+      "coverImg": "https://th.bing.com/th/id/OIP.dQ9zrVg-9bdI1RZu0T2grgHaGJ?w=180&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "videoUrl": " https://www.youtube.com/embed/a8mgLuqUae4?autoplay=1",
+      "id": 7
+    },
+    {
+      "title": "Chhota Bheem",
+      "coverImg": "https://th.bing.com/th/id/OIP.Tsu9rsORaslCVFHZWR9SqwHaF7?w=210&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "videoUrl": " https://www.youtube.com/embed/S0Q09srNuXc?autoplay=1",
+      "id": 8
+    },
+    {
+      "title": "JAWAN: Chaleya",
+      "coverImg": "https://th.bing.com/th/id/OIP.sf8puLuq5NCD5cYjmxbg6QAAAA?w=182&h=182&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "videoUrl": " https://www.youtube.com/embed/VAdGW7QDJiU?autoplay=1",
+      "id": 9
+    },
+    {
+      "title": " White Sauce Pasta",
+      "coverImg": "https://th.bing.com/th/id/OIP.3cZhhQWGY3CzPR-tuBJaIwHaE8?w=301&h=200&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "videoUrl": " https://www.youtube.com/embed/ROTMHSI2LJU?autoplay=1",
+      "id": 10
+    },
+    {
+      "title": "Mr.Bean",
+      "coverImg": "https://th.bing.com/th/id/OIP.0x-8t-CF1RQBmCb4zuxJxgHaHa?w=201&h=201&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "videoUrl": " https://www.youtube.com/embed/dI4WGkBy8as?autoplay=1",
+      "id": 11
+    }
+  ],
+  "categories": [
+    {
+      "title": "songs",
+      "id": 1,
+      "videos": [
+        {
+          "title": "JAWAN: Chaleya",
+          "coverImg": "https://th.bing.com/th/id/OIP.sf8puLuq5NCD5cYjmxbg6QAAAA?w=182&h=182&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+          "videoUrl": " https://www.youtube.com/embed/VAdGW7QDJiU?autoplay=1",
+          "id": 9
+        }
+      ]
+    },
+    {
+      "title": "cooking",
+      "id": 2,
+      "videos": [
+        {
+          "title": " White Sauce Pasta",
+          "coverImg": "https://th.bing.com/th/id/OIP.3cZhhQWGY3CzPR-tuBJaIwHaE8?w=301&h=200&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+          "videoUrl": " https://www.youtube.com/embed/ROTMHSI2LJU?autoplay=1",
+          "id": 10
+        }
+      ]
+    },
+    {
+      "title": "cartoons",
+      "id": 3,
+      "videos": [
+        {
+          "title": "Chhota Bheem",
+          "coverImg": "https://th.bing.com/th/id/OIP.Tsu9rsORaslCVFHZWR9SqwHaF7?w=210&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+          "videoUrl": " https://www.youtube.com/embed/S0Q09srNuXc?autoplay=1",
+          "id": 8
+        },
+        {
+          "title": "Mr.Bean",
+          "coverImg": "https://th.bing.com/th/id/OIP.0x-8t-CF1RQBmCb4zuxJxgHaHa?w=201&h=201&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+          "videoUrl": " https://www.youtube.com/embed/dI4WGkBy8as?autoplay=1",
+          "id": 11
+        }
+      ]
+    },
+    {
+      "title": "series",
+      "id": 4,
+      "videos": [
+        {
+          "title": "F.R.I.E.N.D.S",
+          "coverImg": "https://th.bing.com/th/id/OIP.dQ9zrVg-9bdI1RZu0T2grgHaGJ?w=180&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+          "videoUrl": " https://www.youtube.com/embed/a8mgLuqUae4?autoplay=1",
+          "id": 7
+        },
+        {
+          "title": "Tattadash!",
+          "coverImg": "https://th.bing.com/th/id/OIP.3yt14CLek_GHBgxBCw6kegHaEK?w=275&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+          "videoUrl": " https://www.youtube.com/embed/1sGfiso14Z0?autoplay=1",
+          "id": 6
+        }
+      ]
+    }
+  ],
+  "histories": [
+    {
+      "title": "Chhota Bheem",
+      "videoUrl": " https://www.youtube.com/embed/S0Q09srNuXc?autoplay=1",
+      "time": "28/12/2023, 11:12 AM",
+      "id": 1
+    },
+    {
+      "title": "F.R.I.E.N.D.S",
+      "videoUrl": " https://www.youtube.com/embed/a8mgLuqUae4?autoplay=1",
+      "time": "28/12/2023, 11:12 AM",
+      "id": 2
+    }
+  ]
+}
